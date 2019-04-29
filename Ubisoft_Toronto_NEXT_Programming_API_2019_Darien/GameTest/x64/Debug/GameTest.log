@@ -1,0 +1,125 @@
+﻿  stdafx.cpp
+  AI.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(7): warning C4099: 'PathNode': type name first seen using 'class' now seen using 'struct'
+  c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(6): note: see declaration of 'PathNode'
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\ai.cpp(130): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\ai.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\ai.cpp(196): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  app.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\app.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\app.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\app.cpp(58): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\app.cpp(59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  main.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  SimpleController.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  SimpleSound.cpp
+  Collider.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  GameTest.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  GameWorld.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  Mesh.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  MeshRenderer.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  PacManMeshBuilder.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  PathFinder.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(7): warning C4099: 'PathNode': type name first seen using 'class' now seen using 'struct'
+  c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(6): note: see declaration of 'PathNode'
+  Player.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\player.cpp(81): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Scene.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(7): warning C4099: 'PathNode': type name first seen using 'class' now seen using 'struct'
+  c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\pathfinder.h(6): note: see declaration of 'PathNode'
+  SimpleTileMap.cpp
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(90): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tingleoncrack\desktop\nextshowcase_programming_dariencaron\ubisoft_toronto_next_programming_api_2019_darien\gametest\app\vector.h(97): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\TingleOnCrack\Desktop\NEXTShowcase_Programming_DarienCaron\Ubisoft_Toronto_NEXT_Programming_API_2019_Darien\x64\Debug\GameTest.exe
+  C:\Users\TingleOnCrack\Desktop\NEXTShowcase_Programming_DarienCaron\Ubisoft_Toronto_NEXT_Programming_API_2019_Darien\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
